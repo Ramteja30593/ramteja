@@ -1,10 +1,3 @@
-# Hi 👋, I'm Ram Teja Reddy Medapati
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&duration=3000&pause=1000&color=00ADEF&center=true&vCenter=true&width=700&lines=Final+Year+Computer+Science+Student;Aspiring+Java+Full+Stack+Developer;Data+Analytics+Enthusiast;Java+%7C+Spring+Boot+%7C+SQL;Python+%7C+Power+BI+%7C+Tableau;Always+Learning+New+Things" />
-</p>
-
----
 
 <h1 align="center">Hi 👋, I'm Ram Teja Reddy Medapati</h1>
 
