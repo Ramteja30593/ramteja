@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Final Year B.Tech student in Computer Science & Engineering.
+* 🎓 Recently graduated B.Tech in Computer Science & Engineering.
 * 💻 Passionate about Java Full Stack Development and Data Analytics.
 * 🌱 Currently learning Spring Boot, React, and Advanced Data Analytics.
 * 📊 Interested in transforming data into meaningful business insights.
