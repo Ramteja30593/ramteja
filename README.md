@@ -1,67 +1,121 @@
-<h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Ram Teja Reddy Medapati</a></h1>
-<h3 align="center">A passionate Mobile App developer from Pune India &#127470;&#127475</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
-
-<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
-
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
-
-- 🌱 I’m currently Working on Mobile App(React-Native)
-
-- 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
-
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
-
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **saurabhchavan052@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
-<br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+# Hi 👋, I'm Ram Teja Reddy Medapati
 
 <p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/100rabhcsmc">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
-					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/100rabhch">
-			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-      </div>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&duration=3000&pause=1000&color=00ADEF&center=true&vCenter=true&width=700&lines=Final+Year+Computer+Science+Student;Aspiring+Java+Full+Stack+Developer;Data+Analytics+Enthusiast;Java+%7C+Spring+Boot+%7C+SQL;Python+%7C+Power+BI+%7C+Tableau;Always+Learning+New+Things" />
 </p>
-
-### Blogs posts
-
-<!-- BLOG-POST-LIST:START -->
-
-- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
-- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
-- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
+## 👨‍💻 About Me
 
-Last Edited on: 08/08/2022
+* 🎓 Final Year B.Tech student in Computer Science & Engineering.
+* 💻 Passionate about Java Full Stack Development and Data Analytics.
+* 🌱 Currently learning Spring Boot, React, and Advanced Data Analytics.
+* 📊 Interested in transforming data into meaningful business insights.
+* 🚀 Love building real-world projects and solving practical problems.
+* 🤝 Open to Internship and Full-Time opportunities.
+* ⚡ Strong believer in continuous learning and self-improvement.
+
+---
+
+## 🛠️ Skills
+
+### Programming Languages
+
+* Java
+* JavaScript
+* Python
+* SQL
+* HTML
+* CSS
+
+### Full Stack Development
+
+* Spring Boot
+* React (Learning)
+* REST APIs
+* JDBC
+* Servlets
+
+### Data Analytics
+
+* Excel
+* Power BI
+* Tableau
+* Pandas
+* NumPy
+* Data Visualization
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+
+### Databases
+
+* MySQL
+* SQL Server
+
+### Tools & Technologies
+
+* Git
+* GitHub
+* VS Code
+* Eclipse
+* Jupyter Notebook
+
+---
+
+## 🚀 Projects
+
+### 📊 Personal Finance Management System
+
+A web-based application that helps users track income, expenses, and savings while providing useful financial insights.
+
+### 🤖 AI-Based Attendance System
+
+Developed a face recognition attendance system using machine learning and computer vision concepts for automated attendance tracking.
+
+### 📈 Sales Analytics Dashboard
+
+Created interactive dashboards using Power BI to analyze sales trends, KPIs, and business performance.
+
+---
+
+## 📜 Certifications
+
+* Data Analytics Certification
+* Power BI Certification
+* SQL Certification
+* Java Programming Certification
+
+*(Update these with your actual certifications.)*
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="mailto:ramtejareddy2589@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ramteja30593">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ramtejareddymedapati/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+![Ram Teja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramteja30593\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramteja30593\&layout=compact\&theme=tokyonight)
+
+---
+
+### 💡 Quote
+
+*"Success is the result of consistent learning, continuous improvement, and never giving up."*
