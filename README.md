@@ -1,35 +1,38 @@
-
 <h1 align="center">Hi 👋, I'm Ram Teja Reddy Medapati</h1>
 
-<h3 align="center">Java Full Stack Developer | Data Analytics Enthusiast | Problem Solver</h3>
+<h3 align="center">M.Tech Data Science Student | Data Scientist | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Data+Analytics+Enthusiast;Spring+Boot+Developer;SQL+%7C+Power+BI+%7C+Python;Building+Solutions+with+Code+and+Data;Open+to+Work+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Data+Science+Enthusiast;Machine+Learning+Developer;Data+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Exploring+Artificial+Intelligence;Building+Data-Driven+Solutions" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ramteja30593&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Data Science" width="350" src="https://media.giphy.com/media/qgQUggACo3Pfv687qPC/giphy.gif">
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 Recent Computer Science Graduate
+🎓 M.Tech Data Science student at Amrita Vishwa Vidyapeetham
 
-💻 Passionate about Java Full Stack Development and Data Analytics
+📊 Passionate about Data Science, Machine Learning, and Data Analytics
 
-📊 Skilled in analyzing data and creating meaningful insights
+🐍 Working with Python for data analysis and machine learning
 
-🌱 Currently learning advanced Spring Boot and cloud technologies
+🧠 Interested in building intelligent and data-driven solutions
 
-🚀 Building projects that solve real-world problems
+📈 Experienced in Exploratory Data Analysis and Data Visualisation
 
-🤝 Open to Software Developer, Java Developer, and Data Analyst roles
+🗄️ Strong interest in SQL, databases, and data processing
 
-⚡ Strong believer in continuous learning and growth
+🌱 Currently learning advanced Machine Learning, AI, RAG, and Agentic AI
 
-<br>
+🚀 Building projects to solve real-world problems using data
+
+🤝 Open to Data Science, Machine Learning, Data Analyst, and AI opportunities
+
+---
 
 ## 🌐 Connect With Me
 
@@ -49,86 +52,118 @@
 
 ---
 
-## 🚀 Tech Stack & Skills
-
-### 💻 Programming Languages
+## 🧠 Data Science & Machine Learning
 
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
 </p>
 
-### 🌐 Full Stack Development
-
-<p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JDBC-0B7285?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOP-34495E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MVC-8E44AD?style=for-the-badge"/>
-</p>
-
-### 📊 Data Analytics
+### 📊 Data Analytics & Visualisation
 
 <p>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data_Visualization-FF4088?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/EDA-7B1FA2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistics-2E7D32?style=for-the-badge"/>
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases & SQL
 
 <p>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### ⚙️ Tools
+### 🤖 Artificial Intelligence
 
 <p>
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic_AI-00838F?style=for-the-badge"/>
+</p>
+
+### 💻 Programming
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💰 Personal Finance Management System
+### 🔍 Graph-Based Misinformation Propagation Analytics
 
-Track income, expenses, savings, and generate useful financial insights.
+Analysing how misinformation spreads through interconnected networks using graph-based analytics and data visualisation.
 
-### 📊 Sales Analytics Dashboard
+**Technologies:** Python | Data Analysis | Graph Analytics | Network Analysis | Data Visualisation
 
-Interactive Power BI dashboard for analyzing sales trends and KPIs.
+### 🤖 Early Task Failure Prediction
 
-### 🤖 Face Recognition Attendance System
+Machine learning project focused on predicting potential task failures using historical data, feature engineering, and predictive modelling.
 
-Automated attendance system using AI and Computer Vision.
+**Technologies:** Python | Pandas | Scikit-learn | Machine Learning | EDA
+
+### 📊 Data Analytics & Visualisation
+
+Performed exploratory data analysis and created meaningful visualisations to identify trends, patterns, relationships, and insights from datasets.
+
+**Technologies:** Python | Pandas | NumPy | Matplotlib | Power BI
 
 ---
 
 ## 🎯 Current Focus
 
-* Java Full Stack Development
-* Spring Boot Applications
-* Data Analytics & Visualization
-* SQL Optimization
-* Problem Solving
+* 📊 Data Science & Exploratory Data Analysis
+* 🤖 Machine Learning
+* 📈 Statistical Analysis
+* 🐍 Python for Data Science
+* 🗄️ SQL & Database Management
+* 📉 Data Visualisation
+* 🧠 Artificial Intelligence
+* 🔎 RAG & Agentic AI
+* 💡 Real-world Data Science Projects
 
 ---
 
-## 💡 Motto
+## 📚 Currently Learning
 
-"Keep Learning. Keep Building. Keep Growing."
+* Machine Learning Algorithms
+* Model Evaluation & Optimisation
+* Advanced Statistics
+* Feature Engineering
+* Deep Learning
+* RAG Systems
+* Agentic AI
+* Data Engineering Fundamentals
+
+---
+
+## 💡 My Goal
+
+> **Turning data into insights, insights into decisions, and ideas into intelligent solutions.**
+
+---
+
+## ⚡ Motto
+
+**Keep Learning. Keep Building. Keep Growing.**
